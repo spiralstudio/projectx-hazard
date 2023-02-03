@@ -45,5 +45,5 @@ playnow_fr.png = 105c8e47c136732722561bac42e7130b
 rsrc/intro-bundle.jar = b593cc2773ec0c4c4085721eaa423e03
 rsrc/full-music-bundle.jar = 6bc4743b82b3cd59d9775423c01042b3
 rsrc/full-rest-bundle.jar = ef3a136793d5903e57cac166b9f4497e
-code/projectx-hazard.jar = db7a4fbd8d5649178e6df6f3395631d3
-digest.txt = c58855b0827fd687ee14df50a2b7dc88
+code/projectx-hazard.jar = 00d07dad839fef6ff079a727a32f72b2
+digest.txt = 6adb102a31a0f8eca905c49be63f83c8

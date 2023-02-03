@@ -4,23 +4,23 @@ It supports mods and adds more languages.
 
 ## Usage
 
-Put `projectx-hazard.jar`, [getdown.txt](getdown.txt) and [digest.txt](digest.txt) into Spiral Knights directory: 
+Put [projectx-hazard.jar](dist/projectx-hazard.jar), [getdown.txt](dist/getdown.txt) and [digest.txt](dist/digest.txt) into Spiral Knights directory: 
 
 ```
 Spiral Knights
 ├─code
 │ └─projectx-hazard.jar (New)
+├─mods
+│ ├─mods.conf (New)
+│ ├─mod1.jar  (New)
+│ └─mod2.jar  (New)
 ├─getdown.txt (Modified)
-├─digest.txt (Modified)
-└─mods
-   ├─mods.conf
-   ├─mod1.jar
-   └─mod2.jar
+└─digest.txt  (Modified)
 ```
 
 ## Mods
 
-Create a file named `mods.conf` in the `Spiral Knights/mods/` directory.
+Create a file named [mods.conf](dist/mods/mods.conf) in the `Spiral Knights/mods/` directory.
 And configure jar filenames, separate multiple filenames via newline character, for example:
 
 ```text

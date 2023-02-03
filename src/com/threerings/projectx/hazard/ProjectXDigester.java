@@ -9,9 +9,9 @@ import java.security.MessageDigest;
  * @author Leego Yih
  */
 public class ProjectXDigester {
-    private static final String HAZARD_PATH = "out/artifacts/projectx_hazard_jar/projectx-hazard.jar";
-    private static final String GETDOWN_PATH = "getdown.txt";
-    private static final String DIGEST_PATH = "digest.txt";
+    private static final String HAZARD_PATH = "dist/code/projectx-hazard.jar";
+    private static final String GETDOWN_PATH = "dist/getdown.txt";
+    private static final String DIGEST_PATH = "dist/digest.txt";
     private static final String DIGEST_FORMAT = "getdown.txt = %s\n" +
             "code/config.jar = 97dc52917be4b477baab19650c1e6e44\n" +
             "code/projectx-config.jar = 5af64d60145a37b15cba457f20a2e477\n" +
