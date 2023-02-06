@@ -1,4 +1,4 @@
-getdown.txt = 07f90fa7b2b49f2f76b7474177acdd07
+getdown.txt = ff8ed4586d626a63b45a9d50404d21bf
 code/config.jar = 97dc52917be4b477baab19650c1e6e44
 code/projectx-config.jar = 5af64d60145a37b15cba457f20a2e477
 code/projectx-pcode.jar = dc9696cf73a2e0014ff496ca120caf1f
@@ -46,4 +46,4 @@ rsrc/intro-bundle.jar = b593cc2773ec0c4c4085721eaa423e03
 rsrc/full-music-bundle.jar = 6bc4743b82b3cd59d9775423c01042b3
 rsrc/full-rest-bundle.jar = ef3a136793d5903e57cac166b9f4497e
 code/projectx-hazard.jar = 00d07dad839fef6ff079a727a32f72b2
-digest.txt = 6adb102a31a0f8eca905c49be63f83c8
+digest.txt = 26dd72dfabc883b6611ebc60e2292fc6
